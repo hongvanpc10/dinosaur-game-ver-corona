@@ -2,3 +2,4 @@ __pycache__/
 .venv/
 scores.txt
 .DS_Store
+**/.DS_Store
