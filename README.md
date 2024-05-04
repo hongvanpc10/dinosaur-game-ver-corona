@@ -7,7 +7,7 @@
 1. Clone the repository using:
 
 ```bash
-git clone git@github.com:hongvanpc10/dinosaur-game-ver-corona.git
+git clone git@github.com:hongvanpc10/python-dinosaur-game-ver-corona.git
 ```
 
 Or download the zip file.
